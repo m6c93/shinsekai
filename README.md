@@ -1,2 +1,2 @@
-# shinsekai
-welcome in the shinsekai
+ shinsekai
+welcome in the new world
